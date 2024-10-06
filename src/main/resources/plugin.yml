@@ -1,0 +1,3 @@
+name: EnchantAPI
+version: '${project.version}'
+main: com.acsn1.enchantapi.EnchantAPI
